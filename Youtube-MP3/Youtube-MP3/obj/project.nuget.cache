@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "v1DRhJTuuewL25EOc8GsUr+l3qHof6HjySu9WO8/L3pDxj60MT4YKaa+2OG6bU4IgadzVGFe2b7SiLCFfuD9ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11919\\source\\repos\\Youtube-MP3\\Youtube-MP3\\Youtube-MP3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11919\\.nuget\\packages\\anglesharp\\0.16.1\\anglesharp.0.16.1.nupkg.sha512",
+    "C:\\Users\\11919\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\11919\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\11919\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "C:\\Users\\11919\\.nuget\\packages\\youtubeexplode\\6.1.0\\youtubeexplode.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+﻿<Window x:Class="Youtube_MP3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Youtube_MP3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.496,0.5">
+        <TextBox x:Name ="linktxtbox" HorizontalAlignment="Left" Margin="19,36,0,0" Text="Inserisci qui il link del video" TextWrapping="Wrap" VerticalAlignment="Top" Width="287" Height="29" GotMouseCapture="linktxtbox_GotMouseCapture"/>
+        <Button x:Name="Downloadbtt" Content="Download" HorizontalAlignment="Left" Margin="706,229,0,0" VerticalAlignment="Top" Height="36" Width="84"/>
+        <Button x:Name="Aggiungibtt" HorizontalAlignment="Left" Margin="360,36,0,0" VerticalAlignment="Top" Width="76" Height="29" Content="Aggiungi"/>
+        <Button x:Name="SelectFolderbtt" HorizontalAlignment="Left" Margin="672,232,0,0" VerticalAlignment="Top" Width="29" Height="30">
+            <Button.BorderBrush>
+                <ImageBrush TileMode="None" ImageSource="/Folder-Default-icon.png" Stretch="UniformToFill"/>
+            </Button.BorderBrush>
+            <Button.Background>
+                <ImageBrush ImageSource="/Folder-Default-icon.png"/>
+            </Button.Background>
+        </Button>
+        <ListView Margin="0,270,0,0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
