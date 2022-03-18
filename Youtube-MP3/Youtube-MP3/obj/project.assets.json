@@ -212,11 +212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\11919\\source\\repos\\Youtube-MP3\\Youtube-MP3\\Youtube-MP3.csproj",
+      "projectUniqueName": "C:\\Users\\11919\\Source\\Repos\\simoneilnavy\\Youtube-MP3\\Youtube-MP3\\Youtube-MP3\\Youtube-MP3.csproj",
       "projectName": "Youtube-MP3",
-      "projectPath": "C:\\Users\\11919\\source\\repos\\Youtube-MP3\\Youtube-MP3\\Youtube-MP3.csproj",
+      "projectPath": "C:\\Users\\11919\\Source\\Repos\\simoneilnavy\\Youtube-MP3\\Youtube-MP3\\Youtube-MP3\\Youtube-MP3.csproj",
       "packagesPath": "C:\\Users\\11919\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\11919\\source\\repos\\Youtube-MP3\\Youtube-MP3\\obj\\",
+      "outputPath": "C:\\Users\\11919\\Source\\Repos\\simoneilnavy\\Youtube-MP3\\Youtube-MP3\\Youtube-MP3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
